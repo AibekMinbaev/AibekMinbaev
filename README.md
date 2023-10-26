@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aibek</h1>
-<h3 align="center">A passionate software engineer</h3>
 
 
 - 🔭 I’m currently working on **personal website**
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **aibekminbaev050402@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hE-5WQiSyJKf5Giqm23mgkKlKAiSCRXB/view?usp=sharing](https://drive.google.com/file/d/1hE-5WQiSyJKf5Giqm23mgkKlKAiSCRXB/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hE-5WQiSyJKf5Giqm23mgkKlKAiSCRXB/view?usp=sharing"> Resume <a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
