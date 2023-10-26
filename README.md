@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aibek</h1>
 
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1092877299/thumb/1.jpg?ip=x480"><img>
 
 - 🔭 I’m currently working on **personal website**
 
