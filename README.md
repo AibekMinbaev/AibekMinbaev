@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aibek</h1>
 
-<img align="right" alt="Coding" width="450" src="https://www.shutterstock.com/shutterstock/videos/1092877299/thumb/1.jpg?ip=x480"><img>
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1092877299/thumb/1.jpg?ip=x480"><img>
 
 - 🔭 I’m currently working on **personal website**
 
@@ -19,4 +19,4 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aibekminbaev&show_icons=true&locale=en&layout=compact" alt="aibekminbaev" /></p>
 
-<p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=aibekminbaev&" alt="aibekminbaev" /></p>
+<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aibekminbaev&" alt="aibekminbaev" /></p>
