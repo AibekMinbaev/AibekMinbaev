@@ -2,15 +2,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1092877299/thumb/1.jpg?ip=x480"><img>
 
-- 🔭 I’m currently working on **personal website**
+- 🔭 I’m currently working on **Personal Website**
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Java, Spring Boot, React**
 
 - 💬 Ask me about **Python, Django**
 
 - 📫 Reach out to me at **aibekminbaev050402@gmail.com**
 
-- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1hE-5WQiSyJKf5Giqm23mgkKlKAiSCRXB/view?usp=sharing"> resume <a> 
+- </> I practice DSA and SQL on <a href="https://leetcode.com/aibekminbaev050402/"> Leetcode <a>
+
+- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1hE-5WQiSyJKf5Giqm23mgkKlKAiSCRXB/view?usp=sharing"> Resume <a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
