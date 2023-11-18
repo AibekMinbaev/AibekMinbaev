@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1092877299/thumb/1.jpg?ip=x480"><img>
 
-- 🔭 I’m currently working on <a href="https://aibekminbaev.github.io/"> Personal Website <a>
+- 🔭 I’m currently working on <a href="[https://aibekminbaev.github.io/](https://github.com/AibekMinbaev/great-estate)"> Property Marketplace <a>
 
 - 🌱 I’m currently learning **Java, Spring Boot, React**
 
@@ -10,7 +10,7 @@
 
 - 📫 Reach out to me at **aibekminbaev050402@gmail.com**
 
-- </> I practice DSA and SQL on <a href="https://leetcode.com/aibekminbaev050402/"> Leetcode <a>
+- </> Take a look at my <a href="https://aibekminbaev.github.io/"> Personal Website <a>
 
 - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1hE-5WQiSyJKf5Giqm23mgkKlKAiSCRXB/view?usp=sharing"> Resume <a> 
 
