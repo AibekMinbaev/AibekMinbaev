@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1092877299/thumb/1.jpg?ip=x480"><img>
 
-- 🔭 I’m currently working on <a href="[https://aibekminbaev.github.io/](https://github.com/AibekMinbaev/great-estate)"> Property Marketplace <a>
+- 🔭 I’m currently working on <a href="https://github.com/AibekMinbaev/great-estate"> Property Marketplace <a>
 
 - 🌱 I’m currently learning **Java, Spring Boot, React**
 
