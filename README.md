@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/AibekMinbaev/great-estate"> Property Marketplace <a>
 
-- 🌱 I’m currently learning **Java, Spring Boot, React**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about **Python, Django**
 
