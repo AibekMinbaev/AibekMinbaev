@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/shutterstock/videos/1092877299/thumb/1.jpg?ip=x480"><img>
 
 
-- I use **Python, Django** for backend 
-  
-- I use **TypeScript, React** for fronend
+- I use:
+    - **Python, Django** for backend
+    - **TypeScript, React** for fronend
 
 - Take a look at my <a href="https://aibekminbaev.github.io/"> Personal Website <a>
 
