@@ -5,7 +5,8 @@
 
 - I use:
     - **Python, Django** for backend
-    - **TypeScript, React** for fronend
+    - **TypeScript, React** for frontend
+    - **MySQL** as DBMS
 
 - Take a look at my <a href="https://aibekminbaev.github.io/"> Personal Website <a>
 
