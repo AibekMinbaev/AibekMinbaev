@@ -9,17 +9,16 @@
 Building **scalable backend systems**, **algorithmic trading platforms**, and **high-performance trading algorithms**.  
 
 **Focus areas:**  
-- Distributed systems & low-latency architectures  
-- Parallel computing & performance optimization  
-- Cloud infrastructure & backend scalability  
-
+- Distributed systems
+- Cloud infrastructure & backend scalability
+  
 **Currently learning:**  
-- Advanced system design  
+- System design  
 - Algorithmic trading  
 
 **Tech stack I use:**  
-- **TypeScript / Node.js** → server development & backend APIs  
-- **C# / .NET** → low-latency algorithmic trading engines  
-- **Python** → data engineering, scripting, and trading algorithm development  
+- **TypeScript / Node.js** → backend 
+- **C# / .NET** → algorithmic trading engine development  
+- **Python** → data engineering and trading algorithm development  
 
 🚀 Always building and learning 
